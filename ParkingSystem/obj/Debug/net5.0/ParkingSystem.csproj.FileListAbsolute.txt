@@ -1,0 +1,16 @@
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfo.cs
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ParkingSystem.exe
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ParkingSystem.deps.json
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.json
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.dev.json
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ParkingSystem.dll
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ref\ParkingSystem.dll
+C:\Users\HP\Downloads\dotnet\ParkingSystem\bin\Debug\net5.0\ParkingSystem.pdb
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.dll
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ref\ParkingSystem.dll
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.pdb
+C:\Users\HP\Downloads\dotnet\ParkingSystem\obj\Debug\net5.0\ParkingSystem.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/home/user/enigmacamp/dotnet/ParkingSystem/bin/Debug/net8.0/ParkingSystem
+/home/user/enigmacamp/dotnet/ParkingSystem/bin/Debug/net8.0/ParkingSystem.deps.json
+/home/user/enigmacamp/dotnet/ParkingSystem/bin/Debug/net8.0/ParkingSystem.runtimeconfig.json
+/home/user/enigmacamp/dotnet/ParkingSystem/bin/Debug/net8.0/ParkingSystem.dll
+/home/user/enigmacamp/dotnet/ParkingSystem/bin/Debug/net8.0/ParkingSystem.pdb
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfoInputs.cache
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfo.cs
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.csproj.CoreCompileInputs.cache
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.dll
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/refint/ParkingSystem.dll
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.pdb
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ParkingSystem.genruntimeconfig.cache
+/home/user/enigmacamp/dotnet/ParkingSystem/obj/Debug/net8.0/ref/ParkingSystem.dll
